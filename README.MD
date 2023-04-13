@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410075** |
+| Nama Lengkap | **Eza Rafli Vernica Saputra** |
 | Kelas | TI-4B |
