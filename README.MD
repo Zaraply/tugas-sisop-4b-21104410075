@@ -27,3 +27,5 @@ Fitur :
 
 ### SCREENSHOT PROGRAM
 ![ss](https://github.com/Zaraply/tugas-sisop-4b-21104410075/blob/main/Kalkulator.png)
+
+![ss2](https://github.com/Zaraply/tugas-sisop-4b-21104410075/blob/main/Tumbas%20Tiket.png)
