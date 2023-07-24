@@ -19,8 +19,8 @@
 ## SISTEM OPERASI & PRAKTIKUM SISTEM OPERASI
 ## Fitur program Calculator & Pemesanan Tiket
 Fitur : 
-|  |  |
-|--|--|
+|  |  |  |
+|--|--|--|
 | *NO* | *Fitur* | *Detail* |
 | 1 | Menghitung Angka | Menghitung angka dengan metode penjumlahan, pengurangan, perkalian, dan pembagian |
 | 2 | Memesan Tiket dan Mencetak Tiket | Memesan Tiket Bus dengan kelas dan harga yang sudah di tentukan, kemudian dapat mencetak tiket tersebut. |
